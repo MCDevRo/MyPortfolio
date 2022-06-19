@@ -1,4 +1,4 @@
-# Marius Cristea Protfolio
+# Marius Cristea Portfolio
 
 [https://mcdev.ro/](https://mcdev.ro/)
 
